@@ -1,16 +1,25 @@
-### Hi there 👋
+👋 Hi there!  
 
-<!--
-**bartpetersyn/bartpetersyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Machine Learning enthusiast 🤖 and a CS student 🎓 @ Collegium da Vinci.  
 
-Here are some ideas to get you started:
+I'm currently working as a ML Engineer @ Forcom.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏠 Privately I'm working on:
+- 💡 [Summarization pipeline](https://github.com/Bartoliinii/short_and_sweet) for my engineering thesis.
+
+🧑‍💻 Some of my non university course work:
+- [Machine Learning Specjalization](https://www.coursera.org/specializations/machine-learning-introduction).
+- [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning).
+- [NNFS](https://nnfs.io/).
+
+
+<div align="center">
+  <h3>Connect:</h3>
+  <a href="https://www.linkedin.com/in/bartosz-jaroslaw-pietrzak" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-🔗-blue?style=flat-square" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bartoszjaroslawpietrzak@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20me-📧-blue?style=flat-square" alt="Gmail" />
+  </a>
+</div>
+ 
