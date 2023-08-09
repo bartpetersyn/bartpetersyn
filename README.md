@@ -18,8 +18,5 @@ I'm currently working as a ML Engineer @ Forcom.
   <a href="https://www.linkedin.com/in/bartosz-jaroslaw-pietrzak" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-🔗-blue?style=flat-square" alt="LinkedIn" />
   </a>
-  <a href="mailto:bartoszjaroslawpietrzak@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email%20me-📧-blue?style=flat-square" alt="Gmail" />
-  </a>
 </div>
  
