@@ -1,8 +1,8 @@
 👋 Hi there!  
 
-I'm a Machine Learning enthusiast 🤖 and a CS student 🎓 @ Collegium da Vinci.  
-
-I'm currently working as a ML Engineer @ Forcom.
+- 🤖 I'm a Machine Learning enthusiast from Poland.
+- 🎓 A CS student @ Collegium da Vinci.
+- 🔨 ML Engineer @ Forcom.
 
 🏠 Privately I'm working on:
 - 💡 [Summarization pipeline](https://github.com/Bartoliinii/short_and_sweet) for my engineering thesis.
