@@ -1,4 +1,5 @@
-👋 Hi there!  
+👋 Hi there!
+
 I'm a:
 - 🤖 Machine Learning enthusiast from Poland.
 - 🎓 CS student @ Collegium da Vinci.
