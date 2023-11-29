@@ -1,13 +1,13 @@
 👋 Hi there!  
-
-- 🤖 I'm a Machine Learning enthusiast from Poland.
-- 🎓 A CS student @ Collegium da Vinci.
+I'm a:
+- 🤖 Machine Learning enthusiast from Poland.
+- 🎓 CS student @ Collegium da Vinci.
 - 🔨 ML Engineer @ Forcom.
 
 🏠 Privately I'm working on:
 - 💡 [Summarization pipeline](https://github.com/Bartoliinii/short_and_sweet) for my bachelor thesis.
 
-🧑‍💻 Some of my non-university course work:
+🧑‍💻 Some of my non-university coursework:
 - [Machine Learning Specjalization](https://www.coursera.org/specializations/machine-learning-introduction).
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning).
 - [NNFS](https://nnfs.io/).
