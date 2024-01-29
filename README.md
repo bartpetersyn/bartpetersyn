@@ -5,8 +5,8 @@ I'm a:
 - 🎓 CS student @ Collegium da Vinci.
 - 🔨 ML Engineer @ Forcom.
 
-🏠 Privately I'm working on:
-- 💡 [Summarization pipeline](https://github.com/Bartoliinii/short_and_sweet) for my bachelor thesis.
+🏠 Privately, I'm working on the following:
+- 💡 [Reviews summarization app](https://github.com/Bartoliinii/short_and_sweet) for my bachelor thesis.
 
 🧑‍💻 Some of my non-university coursework:
 - [Machine Learning Specjalization](https://www.coursera.org/specializations/machine-learning-introduction).
