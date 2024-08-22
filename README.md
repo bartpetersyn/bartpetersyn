@@ -2,7 +2,7 @@
 
 I'm a:
 - 🤖 Machine Learning enthusiast from Poland.
-- 🎓 CS student @ Collegium da Vinci.
+- 🎓 CS student @ Adam Mickiewicza University.
 - 🔨 ML Engineer @ Forcom.
 
 🏠 Privately, I'm working on the following:
