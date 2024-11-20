@@ -16,7 +16,7 @@ I'm a:
 
 <div align="center">
   <h3>Connect:</h3>
-  <a href="https://www.linkedin.com/in/bartosz-jaroslaw-pietrzak" target="_blank">
+  <a href="https://pl.linkedin.com/in/bpietrzak" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-🔗-blue?style=flat-square" alt="LinkedIn" />
   </a>
 </div>
