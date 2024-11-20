@@ -6,6 +6,8 @@ I'm a:
 - 🔨 ML Engineer @ Forcom.
 
 🏠 Privately, I'm working on the following:
+- Obsydian LLM interface for my master's thesis
+🕰️ Older projects:
 - 💡 [Reviews summarization app](https://github.com/Bartoliinii/short_and_sweet) for my bachelor thesis.
 
 🧑‍💻 Some of my non-university coursework:
@@ -16,7 +18,7 @@ I'm a:
 
 <div align="center">
   <h3>Connect:</h3>
-  <a href="https://pl.linkedin.com/in/bpietrzak" target="_blank">
+  <a href="https://www.linkedin.com/in/bartosz-jaroslaw-pietrzak" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-🔗-blue?style=flat-square" alt="LinkedIn" />
   </a>
 </div>
