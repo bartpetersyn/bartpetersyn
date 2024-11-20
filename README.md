@@ -6,7 +6,8 @@ I'm a:
 - 🔨 ML Engineer @ Forcom.
 
 🏠 Privately, I'm working on the following:
-- Obsydian LLM interface for my master's thesis
+- LLM interface in Obsydian app for my master's thesis
+
 🕰️ Older projects:
 - 💡 [Reviews summarization app](https://github.com/Bartoliinii/short_and_sweet) for my bachelor thesis.
 
